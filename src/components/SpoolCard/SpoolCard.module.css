@@ -1,0 +1,69 @@
+.SpoolCard {
+    display: flex;
+    gap: 10px;
+
+    background-color: white;
+    padding-right: 11px;
+    border-radius: 6px;
+}
+
+.ButtonBox {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    gap: 0;
+    max-width: 54px;
+}
+
+.minusIcon,
+.plusIcon {
+    fill: #fff;
+    width: 12px;
+    height: 12px;
+    padding: 0;
+    margin: 0;
+}
+
+.Button {
+    padding: 6px;
+    margin: auto;
+    border: none;
+    /* display: flex;
+    align-items: center; */
+    background-color: #C99288;
+    /*height: 31px;*/
+}
+
+.Minus {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.Plus {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.InputBox {
+    text-align: center;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 2px 14px;
+    margin: 0;
+    /* height: 23px;
+    width: 36px;
+    padding: 2px 14px; */
+    border: 2px solid #C99288;
+}
+
+.RightBox {
+    padding: 17px 12px;
+}
+
+.SpoolName {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+    margin-bottom: 10px;
+}
