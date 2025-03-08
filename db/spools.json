@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "color": "Military",
+    "quantity": 12,
+    "cost": 350,
+    "type": "PLA"
+  },
+  {
+    "id": 2,
+    "color": "Black",
+    "quantity": 11,
+    "cost": 350,
+    "type": "PLA"
+  },
+  {
+    "id": 3,
+    "color": "White",
+    "quantity": 8,
+    "cost": 350,
+    "type": "PLA"
+  },
+  {
+    "id": 4,
+    "color": "Yellow",
+    "quantity": 12,
+    "cost": 350,
+    "type": "PLA"
+  }
+]
